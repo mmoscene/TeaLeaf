@@ -1,0 +1,12 @@
+#database.yml File
+#Edit to your liking.
+
+db_config:
+  adapter: mysql2
+  encoding: utf8
+  reconnect: false
+  database: app_db
+  pool: 5
+  username: root
+  password: 
+  host: localhost
